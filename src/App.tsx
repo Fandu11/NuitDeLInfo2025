@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { FiMenu, FiX, FiChevronLeft, FiChevronRight } from 'react-icons/fi';
+import { FiChevronLeft, FiChevronRight } from 'react-icons/fi';
 import './App.css';
 
 function App() {
